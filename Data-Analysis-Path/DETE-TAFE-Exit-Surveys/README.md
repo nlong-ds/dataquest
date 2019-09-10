@@ -1,4 +1,5 @@
-# Dataquest repository
-A list of data analysis projects executed with Python by leveraging a variety of libraries for data analysis and visualization. (Pandas, Numpy, Matplotlib, Seaborn).
+# Working at DETE and TEFE: an overlook of employee satisfaction
+Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction?
 
-If GitHub fails in rendering correctly any of the Jupyter Notebooks within the folder, you can see it with proper formatting here https://nbviewer.jupyter.org/github/nlong-ds/dataquest/blob/master/{filepath}
+DETE = Department of Education, Training and Employment  
+TAFE = Technical and Further Education institute in Queensland, Australia.
