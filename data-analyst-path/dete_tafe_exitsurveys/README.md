@@ -3,3 +3,8 @@ Are employees who only worked for the institutes for a short period of time resi
 
 DETE = Department of Education, Training and Employment  
 TAFE = Technical and Further Education institute in Queensland, Australia.
+
+## Libraries employed
+- Pandas
+- Numpy
+- Matplotlib
